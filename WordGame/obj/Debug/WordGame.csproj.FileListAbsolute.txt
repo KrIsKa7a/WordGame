@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\WordGame\WordGame\bin\Debug\WordGame.exe.config
+C:\Users\Home\source\repos\WordGame\WordGame\bin\Debug\WordGame.exe
+C:\Users\Home\source\repos\WordGame\WordGame\bin\Debug\WordGame.pdb
+C:\Users\Home\source\repos\WordGame\WordGame\obj\Debug\WordGame.csprojResolveAssemblyReference.cache
+C:\Users\Home\source\repos\WordGame\WordGame\obj\Debug\WordGame.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\WordGame\WordGame\obj\Debug\WordGame.exe
+C:\Users\Home\source\repos\WordGame\WordGame\obj\Debug\WordGame.pdb
